@@ -1,0 +1,154 @@
+body{
+    background: linear-gradient(90deg, #264FAD, #A458BF);
+}
+
+
+
+#logo {
+    width: 400px;
+    margin:15px auto;
+
+}
+img {
+    width :400px;
+    height: 138px;
+    /*margin:auto;*/
+}
+
+
+
+
+h2{
+    color:white;
+    font-family:Arial;
+    padding-top:37px;
+
+}
+
+
+
+
+.sign-in-box{
+    background:rgba(255,255,255,0.2);
+    text-align:center;
+    width: 285px;
+    height:235px;
+    /*padding-top:15px;*/
+    /*padding-bottom:30px;*/
+
+
+    margin-top:15px;
+    margin-right:auto;
+    /*margin-left:579px;*/
+    margin-left:auto;
+
+    border-radius:2%;
+}
+
+#sign-in-button{
+    color:white;
+    font-family:Arial;
+    font-size:12px;
+
+    background:rgba(255,255,255,0.2);
+    width:62px;
+
+    padding-top:11px;
+    padding-bottom:11px;
+
+    margin-left:40%;
+    margin-top:-6%;
+    margin-bottom:6%;
+
+    border-radius:7%;
+
+}
+#sign-in-button:hover{
+    background:rgba(255,255,255,0.4);
+}
+#sign-in-button a:link, #sign-in-button a:visited,  #sign-in-button a:hover, #sign-in-button a:active {
+  color: inherit;
+  text-decoration:none;
+}
+
+
+
+
+#register {
+    color:white;
+    font-size:11.5px;
+    font-family:Arial;
+
+    padding-bottom:30px;
+
+    text-align:center;
+
+    /*line-height:1.5em;*/
+}
+#register:hover{
+    text-decoration:underline;
+}
+#register a:link, #register a:visited,  #register a:hover, #register a:active {
+    color: inherit;   
+    text-decoration:none;
+}
+
+
+
+
+#intruction{
+    color:white;
+    font-family:Arial;
+    font-size:11.5px;
+    padding-bottom:3px;
+}
+#intruction:hover{
+    text-decoration: underline;
+}
+#intruction a:link, #intruction a:visited,  #intruction a:hover, #intruction a:active {
+  color: inherit;
+  text-decoration:none;
+}
+
+
+
+
+#forget-password{
+    color:white;
+    font-family:Arial;
+    font-size:11.5px;
+}
+#forget-password:hover{
+    text-decoration: underline;
+}
+#forget-password a:link, #forget-password a:visited,  #forget-password a:hover, #forget-password a:active {
+  color: inherit;
+  text-decoration:none;
+}
+
+
+
+
+#bottom-text{
+    color:white;
+    font-family:Arial;
+    font-size:11.5px;
+
+    text-align:center;
+
+    /*margin-top:20px;*/
+    /*margin-left:669px;*/
+    /*margin-right:669px;*/
+    margin:15px auto;
+    margin-left:auto;
+}
+#bottom-text:hover{
+    text-decoration: underline;
+
+    /*color: inherit;*/
+}
+#bottom-text a:link, #bottom-text a:visited,  #bottom-text a:hover, #bottom-text a:active {
+  color: inherit;
+  text-decoration:none;
+}
+
