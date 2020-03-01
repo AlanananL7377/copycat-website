@@ -4,5 +4,5 @@ The Copycat Website Project requires students to reverse engineer a project an e
 
 Link to <a href="https://docs.google.com/document/d/1ZzTMQb7ykBLj-q1pYV1b4hPehQC5OCE9R6GquyuJgn0/edit?usp=sharing">gDoc Plan</a>
 
-Link to <a href="https://67c9cadb01ba4137b12421796b8d1c04.vfs.cloud9.us-west-2.amazonaws.com/_static/web-design-project/copycat-website/index.html">Site</a>
+Link to <a href="https://67c9cadb01ba4137b12421796b8d1c04.vfs.cloud9.us-west-2.amazonaws.com/_static/web-design-project/copycat-website/index.html">Copycat Site</a>
 
