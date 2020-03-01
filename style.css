@@ -1,5 +1,6 @@
 body{
     background: linear-gradient(90deg, #264FAD, #A458BF);
+    
 }
 
 
@@ -14,6 +15,7 @@ img {
     height: 138px;
     /*margin:auto;*/
 }
+
 
 
 
@@ -151,4 +153,3 @@ h2{
   color: inherit;
   text-decoration:none;
 }
-
